@@ -27,7 +27,7 @@
 		BA7A2C3B26A2E4890053128F /* MenuTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuTableViewController.swift; sourceTree = "<group>"; };
 		BA7A2C3D26A2E6CB0053128F /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
 		BAC74C8D26A17BEF000BA9D8 /* StoreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreViewController.swift; sourceTree = "<group>"; };
-		BAE394CC26A0C93100612848 /* Shine Mood Waffle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Shine Mood Waffle.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BAE394CC26A0C93100612848 /* WoodenHouse.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WoodenHouse.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAE394CF26A0C93100612848 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BAE394D126A0C93100612848 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		BAE394D626A0C93100612848 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -58,7 +58,7 @@
 		BAE394CD26A0C93100612848 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BAE394CC26A0C93100612848 /* Shine Mood Waffle.app */,
+				BAE394CC26A0C93100612848 /* WoodenHouse.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -85,9 +85,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BAE394CB26A0C93100612848 /* Shine Mood Waffle */ = {
+		BAE394CB26A0C93100612848 /* WoodenHouse */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BAE394E026A0C93500612848 /* Build configuration list for PBXNativeTarget "Shine Mood Waffle" */;
+			buildConfigurationList = BAE394E026A0C93500612848 /* Build configuration list for PBXNativeTarget "WoodenHouse" */;
 			buildPhases = (
 				BAE394C826A0C93100612848 /* Sources */,
 				BAE394C926A0C93100612848 /* Frameworks */,
@@ -97,9 +97,9 @@
 			);
 			dependencies = (
 			);
-			name = "Shine Mood Waffle";
+			name = WoodenHouse;
 			productName = WoodenHouse;
-			productReference = BAE394CC26A0C93100612848 /* Shine Mood Waffle.app */;
+			productReference = BAE394CC26A0C93100612848 /* WoodenHouse.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -116,7 +116,7 @@
 					};
 				};
 			};
-			buildConfigurationList = BAE394C726A0C93100612848 /* Build configuration list for PBXProject "Shine Mood Waffle" */;
+			buildConfigurationList = BAE394C726A0C93100612848 /* Build configuration list for PBXProject "WoodenHouse" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -129,7 +129,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BAE394CB26A0C93100612848 /* Shine Mood Waffle */,
+				BAE394CB26A0C93100612848 /* WoodenHouse */,
 			);
 		};
 /* End PBXProject section */
@@ -340,7 +340,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BAE394C726A0C93100612848 /* Build configuration list for PBXProject "Shine Mood Waffle" */ = {
+		BAE394C726A0C93100612848 /* Build configuration list for PBXProject "WoodenHouse" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BAE394DE26A0C93500612848 /* Debug */,
@@ -349,7 +349,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BAE394E026A0C93500612848 /* Build configuration list for PBXNativeTarget "Shine Mood Waffle" */ = {
+		BAE394E026A0C93500612848 /* Build configuration list for PBXNativeTarget "WoodenHouse" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BAE394E126A0C93500612848 /* Debug */,

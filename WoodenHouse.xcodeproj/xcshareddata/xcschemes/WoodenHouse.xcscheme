@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "BAE394CB26A0C93100612848"
-               BuildableName = "Shine Mood Waffle.app"
-               BlueprintName = "Shine Mood Waffle"
-               ReferencedContainer = "container:Shine Mood Waffle.xcodeproj">
+               BuildableName = "WoodenHouse.app"
+               BlueprintName = "WoodenHouse"
+               ReferencedContainer = "container:WoodenHouse.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BAE394CB26A0C93100612848"
-            BuildableName = "Shine Mood Waffle.app"
-            BlueprintName = "Shine Mood Waffle"
-            ReferencedContainer = "container:Shine Mood Waffle.xcodeproj">
+            BuildableName = "WoodenHouse.app"
+            BlueprintName = "WoodenHouse"
+            ReferencedContainer = "container:WoodenHouse.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BAE394CB26A0C93100612848"
-            BuildableName = "Shine Mood Waffle.app"
-            BlueprintName = "Shine Mood Waffle"
-            ReferencedContainer = "container:Shine Mood Waffle.xcodeproj">
+            BuildableName = "WoodenHouse.app"
+            BlueprintName = "WoodenHouse"
+            ReferencedContainer = "container:WoodenHouse.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
